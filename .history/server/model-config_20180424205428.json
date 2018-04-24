@@ -14,7 +14,7 @@
     ]
   },
   "Act": {
-    "dataSource": "bandkit",
+    "dataSource": null,
     "public": true
   }
 }

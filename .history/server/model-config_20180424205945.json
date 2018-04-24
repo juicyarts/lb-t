@@ -12,9 +12,5 @@
       "../common/mixins",
       "./mixins"
     ]
-  },
-  "Act": {
-    "dataSource": "bandkit",
-    "public": true
   }
 }

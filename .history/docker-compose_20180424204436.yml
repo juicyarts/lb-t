@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  db:
+    image: postgres:9.6.5
+    environment:
+      POSTGRES_USER: $DB_USER
+      POSTGRES_PASSWORD: $DB_PASSWORD
+      POSTGRES_DB: $DB_DATABASE
+    ports:
+      - "54321:5432"

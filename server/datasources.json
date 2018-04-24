@@ -1,1 +1,12 @@
-{}
+{
+  "bandkit": {
+    "host": "localhost",
+    "port": 54321,
+    "url": "",
+    "database": "bandkit",
+    "password": "bandkitPassword",
+    "name": "bandkit",
+    "user": "bandkitUser",
+    "connector": "postgresql"
+  }
+}
